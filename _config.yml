@@ -3,14 +3,14 @@ title: Android and Java
 email: jordanglassman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Writing to help myself become great at Java and Android, and maybe help others.  
-baseurl: "/blog/"
+baseurl: "/blog"
 url: "http://jordanglassman.com"
 twitter_username: jpglassman
 github_username:  jordanglassman
 
 # Where things are
 source:      .
-destination: ./_site
+destination: ./blog/_site
 plugins:     ./_plugins
 layouts:     ./_layouts
 data_source: ./_data
